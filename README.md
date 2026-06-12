@@ -3,7 +3,7 @@
  
 <p align="center">
 I build web applications, and dabble in game development with Unity.<br>
-🎯 Open to <b>working-student, internship, and junior front-end roles</b> in Berlin / remote.
+🎯 Open to <b>working-student, internship, and junior front-end roles</b> in Berlin, Germany or Vilnius, Lithuania / remote.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/artur-buivydis-1b383034a" target="_blank">
